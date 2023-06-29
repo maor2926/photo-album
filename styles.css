@@ -221,6 +221,7 @@ nav {
 }
 
 .submit img {
+    position: absolute;
     height: 15px;
     width: 15px;
 }
