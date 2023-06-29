@@ -208,7 +208,9 @@ nav {
 }
 
 button {
-
+    display: flex;
+    justify-content: center;
+    align-items: center;
     margin-right: 20px;
     padding: 0;
     background-color: #9DB2BF;
