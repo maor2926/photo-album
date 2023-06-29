@@ -567,7 +567,7 @@ input[type="text"]:focus {
 
 @media (max-width: 400px) {
     .submit {
-        padding-bottom: 0.5rem;
+        padding-top: 0;
     }
 }
 
