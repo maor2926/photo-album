@@ -568,7 +568,7 @@ input[type="text"]:focus {
     }
 
     .big-img-container p {
-        margin-right: 20px;
+        right: 20px;
     }
 
     .submit {
