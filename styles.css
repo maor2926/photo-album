@@ -562,6 +562,9 @@ input[type="text"]:focus {
         height: 110%;
     }
 
+    .submit {
+        height: 15px;
+    }
 
 }
 
