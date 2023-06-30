@@ -574,7 +574,7 @@ input[type="text"]:focus {
     }
 
     .big-img-container {
-        height: 110%;
+        height: 100vh;
     }
 
 
